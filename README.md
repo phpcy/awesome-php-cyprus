@@ -1,5 +1,12 @@
-# Awesome PHP CY libraries
+# Awesome PHP (Cyprus)
 
-Awesome PHP libraries that are related to Cyprus
+[![Build Status](https://api.travis-ci.org/phpcy/awesome-phpcy.svg?branch=master)](https://travis-ci.org/phpcy/awesome-phpcy)
 
-In this list we can include libraries that are related to Cyprus (i.e. A library that validates a CY VAT number).
+A curated list of amazingly awesome PHP libraries that are related to Cyprus.
+
+## Table of Contents
+- [Awesome PHP](#awesome-php)
+    - [Translations Related](#translations)
+
+### Translations
+- [Vtiger](https://github.com/cerebrux/vtiger6-greek-translation)
